@@ -1,9 +1,13 @@
 .resources__link {
   text-align: center;
+  -webkit-transition: 1s;
+  -o-transition: 1s;
   transition: 1s;
 }
 
 .resources__link:hover {
   opacity: .5;
+  -webkit-transition: .5s;
+  -o-transition: .5s;
   transition: .5s;
 }

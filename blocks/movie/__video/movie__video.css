@@ -1,0 +1,16 @@
+.movie__video {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 515px;
+  height: 316px;
+  margin: 0 auto;
+  padding: 0;
+  font-size: 0;
+  list-style: none;
+  -o-object-fit: cover;
+  object-fit: cover;
+}

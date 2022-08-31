@@ -1,4 +1,5 @@
 .footer {
+  -webkit-box-sizing: border-box;
   box-sizing: border-box;
   min-height: 350px;
   padding: 60px 0 40px 0;

@@ -1,0 +1,11 @@
+.form__comment {
+  margin: 0 0 20px 0;
+  font-size: 24px;
+  font-weight: normal;
+  line-height: 34px;
+}
+
+.form__comment::after {
+  content: ' *';
+  color: #f00;
+}

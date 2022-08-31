@@ -6,5 +6,7 @@
   width: 568px;
   height: 568px;
   background: #2f80ed;
+  -webkit-transform: rotate(345deg);
+  -ms-transform: rotate(345deg);
   transform: rotate(345deg);
 }
