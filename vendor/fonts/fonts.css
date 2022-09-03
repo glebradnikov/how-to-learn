@@ -1,0 +1,18 @@
+@font-face {
+  font-family: Inter;
+  font-weight: normal;
+  src: url(Inter-3.19/Inter-Regular.woff2) format("woff2"),
+    url(Inter-3.19/Inter-Regular.woff) format("woff");
+}
+
+@font-face {
+  font-family: Ubuntu;
+  font-weight: normal;
+  src: url(ubuntu-font-family-0.83/Ubuntu-R.ttf);
+}
+
+@font-face {
+  font-family: Ubuntu;
+  font-weight: 600;
+  src: url(ubuntu-font-family-0.83/Ubuntu-B.ttf);
+}

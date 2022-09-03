@@ -1,6 +1,6 @@
 @import url(../vendor/normalize.css);
 
-@import url(../blocks/fonts/fonts.css);
+@import url(../vendor/fonts/fonts.css);
 
 @import url(../blocks/rotation/rotation.css);
 
@@ -64,7 +64,7 @@
 @import url(../blocks/khan/__title/khan__title.css);
 @import url(../blocks/khan/__quote/khan__quote.css);
 @import url(../blocks/khan/__quote-author/khan__quote-author.css);
-@import url(../blocks/khan/__quote-author-subtitle/khan__quote-author-subtitle.css);
+@import url(../blocks/khan/__quote-author-subline/khan__quote-author-subline.css);
 @import url(../blocks/khan/__book-container/khan__book-container.css);
 @import url(../blocks/khan/__book-pic/khan__book-pic.css);
 @import url(../blocks/khan/__buy-link/khan__buy-link.css);
@@ -89,6 +89,7 @@
 @import url(../blocks/form/__fieldset/form__fieldset.css);
 @import url(../blocks/form/__name/form__name.css);
 @import url(../blocks/form/__text/form__text.css);
+@import url(../blocks/form/__email/form__email.css);
 @import url(../blocks/form/__comment/form__comment.css);
 @import url(../blocks/form/__textarea/form__textarea.css);
 @import url(../blocks/form/__buttons/form__buttons.css);

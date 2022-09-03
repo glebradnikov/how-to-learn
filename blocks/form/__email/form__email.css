@@ -1,11 +1,11 @@
-.form__comment {
+.form__email {
   margin: 0 0 5px 0;
   font-size: 18px;
   font-weight: normal;
   line-height: 1.2;
 }
 
-.form__comment::after {
+.form__email::after {
   content: ' *';
   color: #f00;
 }

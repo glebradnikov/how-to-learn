@@ -223,13 +223,15 @@
 
         <section class="comment">
           <h2 class="section-title">Оставь свой комментарий</h2>
-          <p class="section-subtitle">Как можно улучшить сайт?</p>
+          <p class="section-subtitle">Как я могу улучшить сайт?</p>
           <form action="" method="post" class="form">
             <fieldset class="form__fieldset">
-              <label for="name" class="form__name">Как вас зовут?</label>
-              <input type="text" placeholder="Глеб" maxlength="20" name="name" id="name" class="form__text" required>
+              <label for="name" class="form__name">Имя</label>
+              <input type="text" placeholder="Как вас зовут?" maxlength="20" name="name" id="name" class="form__text" required>
+              <label for="name" class="form__email">Почта</label>
+              <input type="email" placeholder="Укажите вашу почту" name="email" id="email" class="form__text" required>
               <label for="comment" class="form__comment">Комментарий</label>
-              <textarea placeholder="Было бы неплохо адаптировать сайт под мобильные устройства" maxlength="500" rows="8" name="comment" id="comment" class="form__textarea" required></textarea>
+              <textarea placeholder="Адаптировать сайт под разные разрешения экранов." maxlength="400" rows="8" name="comment" id="comment" class="form__textarea" required></textarea>
               <div class="form__buttons">
                 <button type="submit" class="form__submit">Отправить</button>
                 <button type="reset" class="form__reset">Сбросить</button>
