@@ -1,5 +1,5 @@
 # Научиться учиться
-![](https://github.com/glebradnikov/how-to-learn/blob/main/favicon.png)
+![Логотип](https://github.com/glebradnikov/how-to-learn/blob/main/favicon.png)
 
 [Cайт работает по адресу](https://glebradnikov.github.io/how-to-learn)
 
@@ -19,4 +19,5 @@
 * form.
 
 ### Планы по доработке проекта
-* адаптировать сайт под разные разрешения экрана.
+* адаптировать сайт под разные разрешения экрана;
+* оптимизировать изображения.
